@@ -6,7 +6,7 @@ A ideia é simular o trabalho de uma analista de dados júnior numa fintech fict
 
 ## O que tem aqui
 
-- `desafio_final.ipynb`: a solução principal, feita só com Python puro (`csv`, `datetime` e `json`).
+- `desafio-final.ipynb`: a solução principal, feita só com Python puro (`csv`, `datetime` e `json`).
 - `analise_pandas.ipynb` e `analise_pandas.py`: a versão alternativa com pandas, usada para conferir se os números batem com a solução principal. O `.py` foi exportado direto do notebook.
 - `transacoes.csv`: o arquivo de entrada que criei para testar. Tem 202 linhas, com transações de janeiro a junho de 2026, várias linhas com problema de propósito e algumas transações acima de R$ 10.000.
 - `relatorio.json`: o resultado gerado pelo notebook principal.
@@ -16,7 +16,7 @@ A ideia é simular o trabalho de uma analista de dados júnior numa fintech fict
 
 O jeito mais fácil é pelo Google Colab, que já vem com pandas e matplotlib instalados.
 
-1. Abra o `desafio_final.ipynb` no Colab.
+1. Abra o `desafio-final.ipynb` no Colab.
 2. Faça o upload do `transacoes.csv` no painel de arquivos (ícone de pasta, na lateral).
 3. Vá em **Ambiente de execução → Executar tudo**.
 
