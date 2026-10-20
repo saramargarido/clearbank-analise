@@ -1,0 +1,203 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-01,CLI011,debito,108.52,Farmácia,compra
+2,2026-01-01,CLI010,debito,103.77,Restaurante,compra
+3,2026-01-02,CLI013,credito,192.05,Rendimento,investimento
+4,2026-01-03,CLI009,debito,22.33,Streaming,assinatura
+5,2026-01-03,CLI009,credito,242.47,Rendimento,investimento
+6,2026-01-05,CLI001,credito,5800.00,Salário janeiro,salario
+7,2026-02-30,CLI002,credito,4200.00,Salário janeiro,salario
+8,2026-01-05,CLI003,credito,7200.00,Salário janeiro,salario
+9,2026-01-05,CLI004,credito,3500.00,Salário janeiro,salario
+10,N/A,CLI005,credito,3500.00,Salário janeiro,null
+11,2026-01-05,CLI006,credito,3500.00,Salário janeiro,salario
+12,2026-01-05,CLI007,credito,"1.200,00",Salário janeiro,salario
+13,2026-01-05,CLI008,credito,3500.00,Salário janeiro,salario
+14,2026-01-05,CLI003,debito,80.92,Farmácia,compra
+15,2026-01-07,CLI006,debito,235.09,Restaurante,compra
+16,2026-01-07,CLI016,debito,29.83,Streaming,assinatura
+17,2026-01-07,CLI003,debito,2092.59,Aluguel,conta
+18,2026-01-09,CLI018,debito,91.39,Posto de gasolina,compra
+19,2026-01-09,CLI020,credito,0.00,Pix recebido,transferencia
+20,2026-01-10,CLI013,credito,,Rendimento,investimento
+21,2026-01-11,CLI018,debito,-1500,TED enviada,transferencia
+22,2026-01-14,CLI003,debito,148.15,Loja de roupas,compra
+23,2026/06/03,CLI001,debito,148.88,Internet,conta
+24,2026-01-18,CLI009,debito,24.82,Padaria,compra
+25,2026-01-19,CLI010,debito,12500.00,TED enviada,transferencia
+26,2026-01-20,CLI005,debito,127.02,Conta de água,
+27,2026-01-20,CLI015,debito,125.12,Internet,conta
+28,2026-01-21,CLI013,debito,185.72,Loja de roupas,compra
+29,2026-01-21,CLI001,debito,36.70,Streaming,assinatura
+30,2026-01-22,CLI008,debito,161.75,Posto de gasolina,compra
+31,2026-01-22,CLI005,credito,116.19,Rendimento,investimento
+32,2026-01-22,CLI017,credito,1075.68,Pix recebido,transferencia
+33,2026-01-22,CLI009,,1285.37,TED enviada,transferencia
+34,2026-01-25,CLI004,credito,67.80,Rendimento,
+35,2026-01-25,CLI017,debito,406.54,Supermercado,compra
+36,2026-01-29,CLI003,debito,359.39,Supermercado,compra
+37,2026-01-30,CLI018,debito,93.04,Farmácia,compra
+38,2026-02-01,CLI018,debito,367.74,Supermercado,compra
+39,2026-02-03,CLI014,debito,49.64,Padaria,compra
+40,2026-02-04,CLI005,debito,57.56,Streaming,assinatura
+41,2026-02-05,CLI001,credito,4200.00,Salário fevereiro,salario
+42,2026-02-05,CLI002,credito,"R$ 89,90",Salário fevereiro,salario
+43,2026-02-05,CLI003,credito,abc,Salário fevereiro,salario
+44,2026-02-05,CLI004,credito,7200.00,Salário fevereiro,salario
+45,2026-02-05,CLI005,credito,7200.00,Salário fevereiro,salario
+46,2026-02-05,CLI006,credito,3500.00,Salário fevereiro,salario
+47,2026-02-05,CLI007,credito,4200.00,Salário fevereiro,salario
+48,2026-02-05,CLI008,credito,3500.00,Salário fevereiro,NaN
+49,2026-02-05,CLI017,debito,39.38,Padaria,compra
+50,2026-02-09,CLI020,debito,58.12,Streaming,assinatura
+51,2026-02-10,CLI007,debito,215.31,Posto de gasolina,compra
+52,2026-02-10,CLI020,debito,149.82,Internet,conta
+53,2026-02-13,CLI015,déb,87.95,Farmácia,compra
+54,2026-02-15,CLI005,debito,3054.95,Aluguel,conta
+55,2026-02-16,,debito,248.50,Posto de gasolina,compra
+56,NaN,CLI008,credito,139.93,Reembolso,transferencia
+57,null,CLI017,debito,142.99,Academia,assinatura
+58,03-04-2026,CLI017,credito,359.25,Reembolso,transferencia
+59,2026-02-19,CLI008,debito,892.90,TED enviada,transferencia
+60,2026-02-21,CLI008,debito,0,Supermercado,compra
+60,2026-02-21,CLI008,debito,0,Supermercado,compra
+61,2026-02-22,CLI020,credito,376.24,Reembolso,transferencia
+62,2026-02-23,null,credito,177.81,Reembolso,transferencia
+63,2026-02-23,CLI009,null,311.51,Conta de luz,conta
+64,2026-02-26,CLI008,credito,75.75,Rendimento,investimento
+65,2026-03-01,,debito,25.57,Padaria,compra
+66,2026-03-02,CLI005,credito,385.57,Reembolso,transferencia
+67,2026-03-02,CLI006,debito,66.18,Conta de água,conta
+68,2026-03-03,CLI013,credito,393.62,Pix recebido,transferencia
+69,,CLI013,NaN,237.00,Posto de gasolina,compra
+70,2026-03-05,,credito,,Salário março,salario
+71,2026-03-05,CLI002,credito,3500.00,Salário março,salario
+72,2026-03-05,CLI003,credito,3500.00,Salário março,salario
+73,2026-03-05,None,credito,4200.00,Salário março,salario
+74,2026-03-05,CLI005,credito,3500.00,Salário março,salario
+75,2026-03-05,CLI006,credito,7200.00,Salário março,salario
+76,2026-03-05,CLI007,credito,3500.00,Salário março,salario
+77,2026-03-05,CLI008,credito,4200.00,Salário março,salario
+78,2026-03-06,CLI009,debito,115.14,Academia,assinatura
+79,2026-03-08,CLI008,debito,33.63,Padaria,compra
+80,2026-13-04,CLI001,debito,130.10,Internet,conta
+81,2026-03-12,N/A,debito,149.76,Posto de gasolina,compra
+82,2026-03-13,CLI005,debito,355.88,Conta de luz,conta
+83,2026-03-13,CLI014,credito,274.89,Rendimento,investimento
+84,2026-03-15,CLI020,debito,149.71,Pix enviado,transferencia
+85,2026-03-16,,debito,222.09,Posto de gasolina,compra
+86,2026-03-23,CLI003,debito,315.85,null,transferencia
+87,2026-03-23,CLI020,debito,111.16,Internet,conta
+88,2026-03-23,CLI013,debito,83.16,Posto de gasolina,compra
+89,2026-03-24,CLI005,credito,1907.38,Pix recebido,transferencia
+90,2026-03-27,CLI005,credito,284.34,Rendimento,investimento
+91,2026-03-30,CLI017,credito,1587.31,Pix recebido,transferencia
+x99,2026-03-31,CLI005,debito,130.50,Internet,conta
+x99,2026-03-31,CLI005,debito,130.50,Internet,conta
+93,2026-03-31,CLI015,debito,149.73,Internet,conta
+94,2026-04-01,CLI016,debito,238.99,Restaurante,compra
+95,2026-04-01,CLI011,debito,24.88,Padaria,compra
+96,2026-04-05,CLI001,credito,3500.00,Salário abril,salario
+97,2026-04-05,CLI002,credito,4200.00,Salário abril,salario
+3.5,2026-04-05,CLI003,credito,5800.00,Salário abril,salario
+99,2026-04-05,CLI004,credito,7200.00,Salário abril,salario
+100,2026-04-05,CLI005,credito,4200.00,Salário abril,salario
+101,2026-04-05,CLI006,credito,3500.00,Salário abril,salario
+102,2026-04-05,CLI007,credito,5800.00,Salário abril,salario
+102,2026-04-05,CLI007,credito,5800.00,Salário abril,salario
+103,2026-04-05,CLI008,credito,4200.00,Salário abril,salario
+104,2026-04-05,CLI016,debito,31.86,Farmácia,compra
+105,2026-04-05,CLI002,credito,59.52,Rendimento,investimento
+106,2026-04-05,CLI009,debito,-75.00,Padaria,compra
+107,,CLI014,credito,112.87,Pix recebido,transferencia
+108,2026-04-08,CLI014,debito,104.49,Posto de gasolina,compra
+109,2026-04-10,CLI003,debito,50.58,Streaming,assinatura
+110,2026-04-11,CLI015,debito,240.06,Conta de luz,conta
+111,2026-04-11,CLI017,debito,466.14,Loja de roupas,compra
+112,2026-04-12,CLI009,debito,,Aluguel,conta
+null,2026-04-14,CLI001,debito,146.26,Internet,conta
+114,2026-04-15,CLI010,debito,311.58,Loja de roupas,compra
+115,2026-04-18,CLI003,debito,170.57,Conta de luz,conta
+,,,,,,
+116,2026-04-19,CLI005,debito,124.23,Internet,conta
+117,2026-04-21,CLI015,NaN,NaN,Restaurante,compra
+118,2026-04-23,CLI009,credito,474.50,Pix recebido,transferencia
+119,2026-04-24,CLI011,debito,458.92,Loja de roupas,compra
+120,2026-04-27,CLI016,debito,28.85,Streaming,assinatura
+121,2026-05-01,CLI004,credito,30.39,,investimento
+122,2026-05-01,CLI016,debito,363.95,Supermercado,compra
+123,2026-05-02,CLI018,debito,169.02,Farmácia,compra
+124,2026-05-03,CLI004,credito,10500.00,Venda de veículo,transferencia
+124,2026-05-03,CLI004,credito,10500.00,Venda de veículo,transferencia
+125,2026-05-04, ,debito,119.00,Conta de água,conta
+126,2026-05-05,CLI001,credito,3500.00,Salário maio,salario
+127,2026-05-05,CLI002,credito,4200.00,Salário maio,salario
+128,2026-05-05,CLI003,credito,5800.00,Salário maio,salario
+129,2026-05-05,CLI004,credito,3500.00,Salário maio,salario
+130,2026-05-05,CLI005,NaN,3500.00,Salário maio,salario
+131,2026-05-05,CLI006,credito,3500.00,Salário maio,salario
+132,2026-4-7,CLI007,credito,4200.00,Salário maio,salario
+133,2026-05-05,CLI008,credito,7200.00,Salário maio,salario
+134,2026-05-05,CLI014,credito,164.23,Rendimento,investimento
+135,15/03/2026,CLI010,debito,133.63,Posto de gasolina,compra
+136,2026-05-11,CLI007,debito,85.87,Restaurante,compra
+137,2026-05-12,CLI001,debito,51.89,Streaming,assinatura
+138,2026-05-13,CLI007,debito,187.93,Posto de gasolina,compra
+139,2026-05-14,CLI006,debito,31000.00,Saque,transferencia
+140,2026-05-16,CLI011,credito,22800.00,Depósito em espécie,transferencia
+141,2026-05-16,CLI013,debito,89.46,Academia,assinatura
+142,2026-05-17,CLI002,debito,127.33,Internet,conta
+143,2026-05-17,CLI014,debito,252.00,Pix enviado,transferencia
+144,2026-05-20,CLI017,debito,299.11,Posto de gasolina,compra
+145,2026-05-22,CLI017,credito,1790.96,Pix recebido,transferencia
+146,2026-05-23,CLI010,credito,1698.62,Pix recebido,transferencia
+147,2026-05-23,CLI008,debito,278.40,Conta de luz,conta
+148,2026-05-25,CLI012,credito,104.66,Reembolso,transferencia
+149,2026-05-25,CLI017,debito,61.97,Conta de água,conta
+150,2026-05-25,CLI003,debito,169.80,Conta de luz,conta
+151,2026-05-26,CLI017,debito,261.10,TED enviada,transferencia
+152,2026-05-26,CLI015,credito,262.64,Pix recebido,transferencia
+153,2026-05-27,CLI011,debito,128.01,Conta de luz,conta
+154,2026-05-28,CLI012,debito,95.53,Farmácia,compra
+155,2026-05-28,CLI007,credito,129.71,Rendimento,investimento
+156,2026-05-30,CLI016,debito,79.94,Conta de água,conta
+157,2026-06-01,CLI013,credito,null,Reembolso,transferencia
+247,,,,,,
+158,2026-06-01,CLI006,debito,,Pix enviado,transferencia
+159,2026-06-01,CLI010,None,NULL,Restaurante,compra
+160,2026-06-01,CLI016,credito,47.79,,transferencia
+161,2026-06-02,CLI005,debito,51.52,Padaria,compra
+162,2026-06-02,CLI015,CREDITO,51.98,Pix enviado,transferencia
+163,2026-06-03,CLI012,credito,103.78,Reembolso,transferencia
+164,2026-06-03,CLI013,debito,129.74,Academia,assinatura
+165,2026-06-05,CLI001,,7200.00,Salário junho,salario
+166,2026-06-05,CLI002,credito,NaN,Salário junho,salario
+167,2026-06-05,CLI003,credito,7200.00,Salário junho,salario
+168,2026-06-05,CLI004,credito,--,Salário junho,salario
+169,2026-06-05,CLI005,credito,5800.00,Salário junho,salario
+170,2026-06-05,CLI006,credito,5800.00,Salário junho,salario
+171,2026-06-05,CLI007,credito,4200.00,Salário junho,salario
+172,2026-06-05,CLI008,credito,4200.00,Salário junho,salario
+173,2026-06-05,CLI008,debito,301.22,Supermercado,compra
+174,2026-06-05,CLI015,debito,108.13,Academia,assinatura
+175,2026-06-06,CLI010,debito,89.19,Restaurante,compra
+176,2026-06-06,CLI013,debito,22.91,Streaming,assinatura
+177,2026-06-07,CLI013,debito,87.70,Farmácia,compra
+178,2026-06-09,CLI018,transferir,40.40,Conta de água,conta
+179,2026-06-10,CLI010,debito,200.34,Posto de gasolina,compra
+180,,CLI009,debito,210.46,Posto de gasolina,compra
+181,null,CLI014,credito, ,Reembolso,transferencia
+182,2026-06-13,CLI018,debito,120.03,Conta de luz,conta
+183,2026-06-13,CLI010,debito,79.38,Farmácia,compra
+,2026-06-14,CLI004,debito,247.04,Restaurante,compra
+185,2026-06-15,CLI010,debito,18350.75,Compra internacional,compra
+186,2026-06-15,CLI007,debito,39.66,Streaming,assinatura
+187,2026-06-19,CLI012,credito,246.36,Rendimento,investimento
+188,2026-06-22,CLI019,debito,145.93,Academia,assinatura
+12a,2026-06-23,CLI017,debito,75.26,Farmácia,compra
+190,2026-06-25,CLI008,credito,15000.00,Transferência recebida,transferencia
+191,2026-06-25,CLI002,debito,3817.17,TED enviada,transferencia
+192,2026-06-26,CLI009,debito,123.38,Internet,conta
+193,2026-06-27,CLI010,debito,37.73,Streaming,assinatura
+194,2026-06-27,CLI014,debito,144.33,Internet,conta
+195,2026-06-27,CLI020,debito,382.47,Supermercado,compra
+196,2026-06-28,CLI016,debito,58.82,Farmácia,compra

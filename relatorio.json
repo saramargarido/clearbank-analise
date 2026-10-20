@@ -1,0 +1,99 @@
+{
+  "gerado_em": "2026-10-20",
+  "total_transacoes_validas": 148,
+  "total_transacoes_invalidas": 54,
+  "resumo_mensal": {
+    "2026-01": {
+      "quantidade": 29,
+      "total_credito": 25194.19,
+      "total_debito": 16932.69,
+      "saldo": 8261.5,
+      "media": 1452.65,
+      "maior_valor": 12500.0,
+      "menor_valor": 22.33
+    },
+    "2026-02": {
+      "quantidade": 17,
+      "total_credito": 30251.99,
+      "total_debito": 4885.42,
+      "saldo": 25366.57,
+      "media": 2066.91,
+      "maior_valor": 7200.0,
+      "menor_valor": 39.38
+    },
+    "2026-03": {
+      "quantidade": 21,
+      "total_credito": 30233.11,
+      "total_debito": 1380.44,
+      "saldo": 28852.67,
+      "media": 1505.41,
+      "maior_valor": 7200.0,
+      "menor_valor": 33.63
+    },
+    "2026-04": {
+      "quantidade": 21,
+      "total_credito": 33134.02,
+      "total_debito": 2251.15,
+      "saldo": 30882.87,
+      "media": 1685.01,
+      "maior_valor": 7200.0,
+      "menor_valor": 24.88
+    },
+    "2026-05": {
+      "quantidade": 32,
+      "total_credito": 65181.21,
+      "total_debito": 33701.31,
+      "saldo": 31479.9,
+      "media": 3090.08,
+      "maior_valor": 31000.0,
+      "menor_valor": 30.39
+    },
+    "2026-06": {
+      "quantidade": 28,
+      "total_credito": 42597.93,
+      "total_debito": 24290.4,
+      "saldo": 18307.53,
+      "media": 2388.87,
+      "maior_valor": 18350.75,
+      "menor_valor": 22.91
+    }
+  },
+  "transacoes_suspeitas": [
+    {
+      "id": 25,
+      "cliente_id": "CLI010",
+      "data": "2026-01-19",
+      "valor": 12500.0
+    },
+    {
+      "id": 124,
+      "cliente_id": "CLI004",
+      "data": "2026-05-03",
+      "valor": 10500.0
+    },
+    {
+      "id": 139,
+      "cliente_id": "CLI006",
+      "data": "2026-05-14",
+      "valor": 31000.0
+    },
+    {
+      "id": 140,
+      "cliente_id": "CLI011",
+      "data": "2026-05-16",
+      "valor": 22800.0
+    },
+    {
+      "id": 185,
+      "cliente_id": "CLI010",
+      "data": "2026-06-15",
+      "valor": 18350.75
+    },
+    {
+      "id": 190,
+      "cliente_id": "CLI008",
+      "data": "2026-06-25",
+      "valor": 15000.0
+    }
+  ]
+}
